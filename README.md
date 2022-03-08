@@ -8,9 +8,9 @@ Mentorship is critical for experiential learning. The primary purpose of Skunks.
 
 Social Media:
 
-AI Skunks WWW <a href'http://skunks.ai/'>http://skunks.ai/</a>  
-AI Skunks IG <a href'https://www.instagram.com/aiskunks/'>https://www.instagram.com/aiskunks/</a>  
-AI Skunks Twitter <a href'https://twitter.com/aiskunks'>https://twitter.com/aiskunks</a>   
+AI Skunks WWW <a href='http://skunks.ai/'>http://skunks.ai/</a>  
+AI Skunks IG <a href='https://www.instagram.com/aiskunks/'>https://www.instagram.com/aiskunks/</a>  
+AI Skunks Twitter <a href='https://twitter.com/aiskunks'>https://twitter.com/aiskunks</a>   
 
 
 
