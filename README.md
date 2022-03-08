@@ -1,4 +1,14 @@
-### Hi there 👋
+### Experiential AI
+
+AI Skunks is a non-profit experiential AI playground whose mission is to use technology and AI to teach research, creativity, and entrepreneurial thinking and skills.
+
+Experiential AI is learning AI by doing AI. Experiential Learning is the process of learning by doing. By engaging in hands-on experiences and reflection, people learn how to apply knowledge to real-world situations.
+
+
+
+
+
+
 
 <!--
 **aiskunks/aiskunks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
