@@ -1,6 +1,6 @@
 ### Experiential AI
 
-AI Skunks is a non-profit experiential AI playground whose mission is to use technology and AI to teach research, creativity, and entrepreneurial thinking and skills.
+AI Skunks is an experiential AI playground whose mission is to use technology and AI to teach research, creativity, and entrepreneurial thinking and skills.
 
 Experiential AI is learning AI by doing AI. Experiential learning is the process of learning by doing. By engaging in hands-on experiences and reflection, people learn how to apply knowledge to real-world situations.
 
