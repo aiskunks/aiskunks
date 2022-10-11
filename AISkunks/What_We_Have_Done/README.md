@@ -3,8 +3,9 @@
 [Papers](#Papers)   
 [Awards](#Awards)   
 [Articles](#Articles)   
-[Articles](#Articles)   
+[Books](#Books)   
 [Open Source Code](#Code)   
+[Games andReal-time 3D](#Games) 
 
 ## Papers  
 
