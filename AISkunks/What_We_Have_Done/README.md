@@ -1,8 +1,8 @@
 # AI Skunks - What We Have Done?
 
 [Papers](#Papers)   
-[RISE Awards](#RISE Awards)
-[Articles](#Articles)
+[RISE Awards](#RISE Awards)   
+[Articles](#Articles)   
 
 ## Papers  
 
