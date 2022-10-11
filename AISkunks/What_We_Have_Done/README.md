@@ -1,7 +1,7 @@
 # AI Skunks - What We Have Done?
 
 [Papers](#Papers)   
-[RISE Awards](#RISE Awards)   
+[Awards](#Awards)   
 [Articles](#Articles)   
 
 ## Papers  
@@ -13,9 +13,10 @@ https://arxiv.org/abs/2209.02847
 arXiv:2209.02847 [cs.CV]
 
   
-## RISE Awards   
+## Awards   
 
-COMPUTER AND INFORMATION SCIENCES: Graduate 2022
+RISE Award 2022
+COMPUTER AND INFORMATION SCIENCES: Graduate 
 Angry Cats: Best Practices for Stable Procedural Content Generation with DC-Gan
 Presenter(s):​ Rohit Gandikota Khoury’24 ​
 Mentor:​ Nik Bear Brown  
