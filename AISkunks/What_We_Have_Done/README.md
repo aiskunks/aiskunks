@@ -24,5 +24,6 @@ Mentor:​ Nik Bear Brown
   
  ## Articles     
 
-KNN and SVM what is it?
+KNN and SVM what is it? https://medium.com/@ghojariasaad/knn-and-svm-what-is-it-154fa473a8bb
+
   
