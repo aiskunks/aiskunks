@@ -3,6 +3,7 @@
 [Papers](#Papers)   
 [Awards](#Awards)   
 [Articles](#Articles)   
+[Projects](#Projects)  
 [Books](#Books)   
 [Data](#Data) 
 [Open Source Code](#Code)   
@@ -22,8 +23,6 @@ Tanvi Valkunde Linear Algebra in the Browser powered by WebAssembly
 https://ieeexplore.ieee.org/document/9725939
 
 Ram Gopal Varma Alluri Image Segmentation Process using Extended EM and K-Means Clustering Algorithms https://ijsrcsams.com/images/stories/Past_Issue_Docs/ijsrcsamsv7i4p77.pdf
-
-
 
 
 
@@ -52,7 +51,7 @@ Deril Raju
 
 
 
- ## Articles  
+ ## Projects    
 PANOSE
 
  ## Books     
