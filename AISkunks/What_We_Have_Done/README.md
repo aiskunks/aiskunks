@@ -8,7 +8,7 @@
 [Data](#Data)    
 [Open Source Code](#Code)     
 [Games and Real-time 3D](#Games)  
-[Talks and Workshops](#alks and Workshops)   
+[Talks and Workshops](#Talks and Workshops)   
 [Website](#Website)  
 
 ## Papers  
