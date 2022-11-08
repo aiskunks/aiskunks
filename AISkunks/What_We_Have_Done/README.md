@@ -52,7 +52,7 @@ https://coe.northeastern.edu/awards/innovation/
 Red Hat Academy Director's Award for 2020    
 Awardee: Nik Bear Brown for AI Skunkworks      
 
-This singualr award was given for mentoring over 300 students through the Red Hat training materials for becoming Linux system administrators or DevOps programmers. Only one Red Hat Academy Director's Award is given each year out of the thousands of schools that take advantage of the Red Hat Academy material to train students to become Linux system administrators and DevOps programmers.   
+Nik Bear Brown for AI Skunkworks won this singualr award was given for mentoring over 300 students through the Red Hat training materials for becoming Linux system administrators or DevOps programmers. Only one Red Hat Academy Director's Award is given each year out of the thousands of schools that take advantage of the Red Hat Academy material to train students to become Linux system administrators and DevOps programmers.   
 
 
   
