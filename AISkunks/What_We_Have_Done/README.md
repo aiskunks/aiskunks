@@ -9,7 +9,7 @@
 [Open Source Code](#Code)     
 [Games and Real-time 3D](#Games)  
 [Talks and Workshops](#Talks)   
-[#Website](#Website)  
+[Website](#Website)  
 
 ## Papers  
 (Note that some papers are co-authored with collaborators outside AI Skunkworks. Only the Skunks are listed here, the full author list can be found through the link to the paper)
