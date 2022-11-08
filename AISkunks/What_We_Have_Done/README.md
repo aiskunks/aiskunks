@@ -7,9 +7,9 @@
 [Books](#Books)   
 [Data](#Data)    
 [Open Source Code](#Code)     
-[Games and Real-time 3D](#Games) 
-[Talks and Workshops(#Talks) 
-[#Website](#Website) 
+[Games and Real-time 3D](#Games)  
+[Talks and Workshops](#Talks)   
+[#Website](#Website)  
 
 ## Papers  
 (Note that some papers are co-authored with collaborators outside AI Skunkworks. Only the Skunks are listed here, the full author list can be found through the link to the paper)
@@ -165,7 +165,9 @@ https://github.com/aiskunks/kindo
 
 Games built by AI Skunkworks Skunks  
 
-  
+ ## Talks and Workshops 
+ 
+ 
 
  ## Website       
 
