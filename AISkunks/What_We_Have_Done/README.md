@@ -21,7 +21,7 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Books](#Books)   
 [Data](#Data)    
 [Open Source Code](#Code)     
-[Games and Real-time 3D](#Games)  
+[Games](#Games)  
 [Talks](#Talks)   
 [Website](#Website)  
 
