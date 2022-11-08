@@ -167,6 +167,14 @@ Games built by AI Skunkworks Skunks
 
  ## Talks and Workshops 
  
+ Many AI Skunkworks talks and workshops are on the AI Skunkworks Northeastern YouTube channel https://www.youtube.com/channel/UCSqJ-CN73dOEinvRvlYc2Cw
+ 
+ * AI Skunkworks - Explainable AI's General Meeting for Summer 2021 https://www.youtube.com/watch?v=MRMytHpCM8g&t=110s 
+ * I Skunkworks Speaker Session - Future of AdTech by Bill Layman https://www.youtube.com/watch?v=2FIbc4Ez5xU&t=3s
+ * AI Skunkworks Speaker Session on "Graph Based Data SciencCulture of Innovatione" by Paco Nathan https://www.youtube.com/watch?v=1y7yAenJmgM&t=1810s
+ * AI Skunkworks Speaker Session with Jacopo Tagliabue, Lead AI Scientist at Coveo https://www.youtube.com/watch?v=QEy9rJ0RLps&t=146s
+ * Culture of Innovation with Graham Wilkinson https://www.youtube.com/watch?v=ngBWmqwaqWI
+ * Speaker Series Event with Rajiv Shah | Model Interpretability https://www.youtube.com/watch?v=Oh6R47pGTfc&t=1s
  
 
  ## Website       
