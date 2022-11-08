@@ -72,6 +72,11 @@ Nik Bear Brown for AI Skunkworks won this singualr award was given for mentoring
   
  ## Articles     
 
+Shesh Narayan Gupta
+* Deep Convolutional Neural Networks (DCNNs) explained in layman's terms https://medium.com/aiguys/deep-convolutional-neural-networks-dcnns-explained-in-layman-terms-b990b2818061
+* BERT Explainability https://medium.com/aiguys/bert-explainability-5b54cff01407  
+
+
 Abhishek Dabas  
 * ML-Ops: Operationalizing a Machine Learning Model, end to end  https://adabhishekdabas.medium.com/ml-ops-operationalizing-a-machine-learning-model-end-to-end-89a273ed311c 
 * RL World https://adabhishekdabas.medium.com/rl-world-3fc4dc38a73d 
