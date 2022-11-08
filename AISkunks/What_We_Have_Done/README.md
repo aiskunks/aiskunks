@@ -20,7 +20,7 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Projects](#Projects)  
 [Books](#Books)   
 [Data](#Data)    
-[Open Source Code](#Code)     
+[OpenSource](#Code)     
 [Games](#Games)  
 [Talks](#Talks)   
 [Research](#Research)  
