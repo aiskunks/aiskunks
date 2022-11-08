@@ -28,6 +28,9 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Finance](#Finance)   
 [Entrepreneurship](#Entrepreneurship)    
 [Art](#Art)   
+[Skool](#Skool)   
+[Art](#Art)   
+
 [Website](#Website)  
 
 ## Papers  
@@ -264,14 +267,35 @@ Existing methods for estimating brain fiber orientations use mathematical models
 Segmentation of major brain white matter tracts is essential in studying brain development and degeneration. The common methods to accomplish this task involve complex multi-step procedure. We would like to explore the potential of deep learning to replace these complex pipelines.
 
 ## Finance   
-xx
+
+*The Economics of Happiness*   
+
+The idea is to annotate countries with as many economic indicators as possible and use that to predict the World Happiness Report scores for various years.
+
+Since 2002, the World Happiness Report has used statistical analysis to determine the world's happiest countries https://worldhappiness.report/
+
+The WHR data is at https://www.kaggle.com/datasets/unsdsn/world-happiness
+
+We will then use EDA, models, and model interpretability to determine which factors contribute the most to predicting the Happiness Score
+
+https://github.com/aiskunks/The_Economics_of_Happiness  
+
 
 ## Entrepreneurship    
 
+AI Skunkworls collaborates with the IDEA lab at Northeastern to support ventures and the entrepreneurs related to AI. https://www.northeastern.edu/idea/get-started/management/  
 
 ## Art      
 
-xxx
+The Warhol project works of various computaional art and AI assisted design projects.  See https://docs.google.com/presentation/d/1D3Zy2I1d_XcvidCa-Wap1GAPJo3tmm9ZB10_Nx5gEz0/edit?usp=sharing
+
+## Skool
+
+Skunks Skool is an open source Data Science repository with links and tutorials for data science created by AI Skunks.  https://github.com/aiskunks/Skunks_Skool  
+
+## ExperientialAI
+
+Ai Skunkworks collaborates with the Institute for Experiential AI. https://ai.northeastern.edu/ 
 
 ## Website       
 
