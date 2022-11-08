@@ -8,7 +8,7 @@
 [Data](#Data)    
 [Open Source Code](#Code)     
 [Games and Real-time 3D](#Games)  
-[Talks and Workshops](#Talks and Workshops)   
+[Talks](#Talks)   
 [Website](#Website)  
 
 ## Papers  
@@ -165,7 +165,7 @@ https://github.com/aiskunks/kindo
 
 Games built by AI Skunkworks Skunks  
 
- ## Talks and Workshops 
+ ## Talks 
  
  Many AI Skunkworks talks and workshops are on the AI Skunkworks Northeastern YouTube channel https://www.youtube.com/channel/UCSqJ-CN73dOEinvRvlYc2Cw
  
