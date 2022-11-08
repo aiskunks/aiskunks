@@ -1,4 +1,4 @@
-# AI Skunks - What We Have Done?
+# AI Skunkworks - What We Have Done?
 
 [Papers](#Papers)   
 [Awards](#Awards)   
