@@ -23,6 +23,11 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Open Source Code](#Code)     
 [Games](#Games)  
 [Talks](#Talks)   
+[Research](#Research)  
+[Biology](#Biology)   
+[Finance](#Finance)   
+[Entrepreneurship](#Entrepreneurship) 
+[Art](#Art)   
 [Website](#Website)  
 
 ## Papers  
@@ -217,8 +222,56 @@ Games built by AI Skunkworks at Northeastern https://youtu.be/6nTry1HihEI
  * Culture of Innovation with Graham Wilkinson https://www.youtube.com/watch?v=ngBWmqwaqWI
  * Speaker Series Event with Rajiv Shah | Model Interpretability https://www.youtube.com/watch?v=Oh6R47pGTfc&t=1s
  
+ ## Research
+ 
+ Individual skunks are involved in basic AI Research.
+ 
+Kshitij Zutshi	
+* Data Imputation Best Practices  https://github.com/aiskunks/AI_Research/tree/main/data-imputation-best-practices
 
- ## Website       
+Rohit Gandikota	
+* Best Practises to Train and Control DCGAN  https://github.com/aiskunks/AI_Research/blob/main/dc-gan-best-practices/     
+* Implementation of Progressively Growing GAN for HD Image Generation	 https://github.com/aiskunks/AI_Research/blob/main/growing-gan-best-practices/  
+* Rohit Gandikota	Implementation of Diffusion Model for Content Generation  https://github.com/aiskunks/AI_Research/blob/main/diffusion-model-best-practices/   
+
+Raksha Ramkumar, Saad Ghojaria	  
+* Procedural Data  https://github.com/aiskunks/AI_Research/blob/main/Procedural%20Data/   
+
+Shesh Narayan Gupta	
+* Adjusting for Bias with Procedural Data https://github.com/aiskunks/AI_Research/blob/main/Adjustin_bias_using_procedural_data/  
+
+
+ ## Biology  
+ 
+BCH and Harvard Medical School Projects in machine learning for medical image analysis for the Skunks
+
+*Estimation of diffusion parameters from under-sampled measurements with deep learning*  
+
+Parameters inferred from the diffusion signal measured at every voxel in diffusion-weighted magnetic resonance imaging, such as mean diffusivity and fractional anisotropy, reflect upon tissue characteristics and are, therefore, used in many clinical applications. We would like to explore deep learning methods and develop solutions to estimate these parameters from a small number of measurements, to shorten the patient scan times and enable such analyses in vulnerable patient populations such as fetuses, and pediatric patients who cannot stay still in the MRI scanner for long imaging sessions.
+
+*Automatic image quality assessment and brain segmentation in diffusion-weighted images*   
+
+Real-time assessment of the quality of diffusion-weighted images is very important. Segmentation of the brain in these images is also necessary and very challenging due to complex image intensity variations. We seek methods that can accomplish these accurately and in real-time.
+
+*Deep learning-based estimation of fiber orientation distribution from diffusion-weighted MRI*  
+
+Existing methods for estimating brain fiber orientations use mathematical models that are based on the physics of the diffusion process. We seek machine-learning-based methods that avoid relying on such models, which can be sub-optimal or even wrong.
+
+*Fetal and newborn brain tract segmentation using deep learning*   
+
+Segmentation of major brain white matter tracts is essential in studying brain development and degeneration. The common methods to accomplish this task involve complex multi-step procedure. We would like to explore the potential of deep learning to replace these complex pipelines.
+
+## Finance   
+xx
+
+## Entrepreneurship    
+
+
+## Art      
+
+xxx
+
+## Website       
 
 The official website (still under construction) is at https://alskunks.sites.northeastern.edu/
 
