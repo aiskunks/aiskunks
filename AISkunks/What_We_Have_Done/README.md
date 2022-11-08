@@ -4,7 +4,7 @@ AI Skunks is an experiential AI playground whose mission is to use technology an
 
 Experiential AI is learning AI by doing AI. Experiential learning is the process of learning by doing. By engaging in hands-on experiences and reflection, people learn how to apply knowledge to real-world situations.
 
-Mentorship is critical for experiential learning. The primary purpose of Skunks.ai is to connect more experienced AI nerds with those less experienced and have them work on open-source code, tutorials, or writing articles. 
+Mentorship is critical for experiential learning. The primary purpose of AI Skunkworks is to connect more experienced AI nerds with those less experienced and have them work on open-source code, tutorials, or writing articles. 
 
 Social Media:
 
