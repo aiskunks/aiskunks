@@ -72,6 +72,14 @@ Nik Bear Brown for AI Skunkworks won this singualr award was given for mentoring
   
  ## Articles     
 
+Nancy Jemimah
+* Deep Q Learning — Explained https://medium.com/@nancyjemi/deep-q-learning-explained-65df980aac6f     
+* Level up — Understanding Q learning https://medium.com/@nancyjemi/level-up-understanding-q-learning-cf739867eb1d    
+* Basics — Reinforcement Learning https://medium.com/analytics-vidhya/basics-reinforcement-learning-66aae5da4c85
+
+Ayush Singh
+* Evaluating Deep Learning Hyperparameters using Yelp Sentiment Classifier in Keras https://medium.com/@iBlong2iYush/evaluating-deep-learning-hyperparameters-using-yelp-sentiment-classifier-in-keras-ceed4d3a1eb7
+
 Shesh Narayan Gupta
 * Deep Convolutional Neural Networks (DCNNs) explained in layman's terms https://medium.com/aiguys/deep-convolutional-neural-networks-dcnns-explained-in-layman-terms-b990b2818061
 * BERT Explainability https://medium.com/aiguys/bert-explainability-5b54cff01407  
