@@ -8,9 +8,11 @@ Mentorship is critical for experiential learning. The primary purpose of Skunks.
 
 Social Media:
 
-AI Skunks http://skunks.ai/
-AI Skunks IG https://www.instagram.com/aiskunks/
-AI Skunks Twitter https://twitter.com/aiskunks 
+AI Skunks LinkedIn https://www.linkedin.com/company/aiskunkworks/   
+AI Skunks WWW https://alskunks.sites.northeastern.edu/    
+AI Skunks IG https://www.instagram.com/aiskunks/    
+AI Skunks Twitter https://twitter.com/aiskunks     
+
 
 [Papers](#Papers)   
 [Awards](#Awards)   
