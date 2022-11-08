@@ -13,7 +13,7 @@ AI Skunks WWW https://alskunks.sites.northeastern.edu/
 AI Skunks IG https://www.instagram.com/aiskunks/    
 AI Skunks Twitter https://twitter.com/aiskunks     
 
-
+## Index   
 [Papers](#Papers)   
 [Awards](#Awards)   
 [Articles](#Articles)   
