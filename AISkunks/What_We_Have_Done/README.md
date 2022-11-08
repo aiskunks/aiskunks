@@ -26,7 +26,7 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Research](#Research)  
 [Biology](#Biology)   
 [Finance](#Finance)   
-[Entrepreneurship](#Entrepreneurship) 
+[Entrepreneurship](#Entrepreneurship)    
 [Art](#Art)   
 [Website](#Website)  
 
