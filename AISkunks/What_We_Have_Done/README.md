@@ -203,7 +203,8 @@ https://github.com/aiskunks/kindo
 
  ## Games     
 
-Games built by AI Skunkworks Skunks  
+Games built by AI Skunkworks at Northeastern https://youtu.be/6nTry1HihEI
+
 
  ## Talks 
  
