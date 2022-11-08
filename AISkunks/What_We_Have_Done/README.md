@@ -20,7 +20,7 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Projects](#Projects)  
 [Books](#Books)   
 [Data](#Data)    
-[OpenSource](#Code)     
+[Code](#Code)     
 [Games](#Games)  
 [Talks](#Talks)   
 [Research](#Research)  
@@ -179,7 +179,9 @@ https://github.com/aiskunks/CognitiveType/tree/main/Type_Segmentation/PANOSE
 
 Typography-MNIST (TMNIST) https://www.kaggle.com/datasets/7a2a5621ee8c66c1aba046f9810a79aa27aafdbbe5d6a475b861d2ba8552d1fc
 
- ## Open Source Code       
+ ## Code       
+
+Open Source Code 
 
 *RAMAN project*    
 RAMAN project with Matin Raayai Ardakani and Naveen Jami
