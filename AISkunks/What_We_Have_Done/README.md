@@ -45,7 +45,7 @@ Mentor:​ Nik Bear Brown
 Northeastern University Fostering Engineering Innovation in Education Award 2022    
 Awardee: Nik Bear Brown for AI Skunkworks     
 
-I won the singular Northeastern University Fostering Engineering Innovation in Education Award for 2021-22. The Award recognizes outstanding College of Engineering educators for their extraordinary efforts during the past year to enhance our students’ knowledge, skills and ability to innovate as 21st century engineers. Specifically, nominees will have demonstrated fostering of technological innovation or innovative engineering design, with sustainable value for society, in undergraduate engineering courses that bridge between first year cornerstone and capstone experiences, or in graduate courses.   
+Nik Bear Brown for AI Skunkworks won the singular Northeastern University Fostering Engineering Innovation in Education Award for 2021-22. The Award recognizes outstanding College of Engineering educators for their extraordinary efforts during the past year to enhance our students’ knowledge, skills and ability to innovate as 21st century engineers. Specifically, nominees will have demonstrated fostering of technological innovation or innovative engineering design, with sustainable value for society, in undergraduate engineering courses that bridge between first year cornerstone and capstone experiences, or in graduate courses.   
 
 https://coe.northeastern.edu/awards/innovation/   
 
