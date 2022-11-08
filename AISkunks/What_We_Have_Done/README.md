@@ -86,6 +86,19 @@ Abhijit Menon
 * Multivariate​ Stock Market Analysis — Financial + Sentiment variables https://medium.com/analytics-vidhya/multivariate-stock-market-analysis-financial-sentiment-variables-8f34af58e528 
 * The trap of A/B testing for too long. https://medium.com/swlh/the-trap-of-a-b-testing-for-too-long-a4706066a692
 
+Abhishek Maheshwarappa
+* Explainable AI with ICE, Individual Conditional Expectation Plots https://abhishek-maheshwarappa.medium.com/explainable-ai-with-ice-individual-conditional-expectation-plots-c71e8fc1f1c2     
+* Explainable AI with PDP, Partial Dependence Plot https://abhishek-maheshwarappa.medium.com/explainable-ai-with-pdp-partial-dependence-plot-fecf09b0e947  
+* Seldon —MLOps https://abhishek-maheshwarappa.medium.com/seldon-mlops-d84160de71ab
+* SHAP Values for Explainable AI https://abhishek-maheshwarappa.medium.com/shap-values-for-explainable-ai-58652645d881  
+* Microsoft Vision Transfer Learning https://abhishek-maheshwarappa.medium.com/microsoft-vision-transfer-learning-f1ba7dc9e75f     
+* Multi-Arm Bandits for recommendations and A/B testing on Amazon ratings data set https://abhishek-maheshwarappa.medium.com/multi-arm-bandits-for-recommendations-and-a-b-testing-on-amazon-ratings-data-set-9f802f2c4073  
+* Reinforcement Learning for Stock Trading https://abhishek-maheshwarappa.medium.com/reinforcement-learning-for-stock-trading-d4e487b1b280    
+* Getting started with EC2 instance https://medium.com/amazon-aws/getting-started-with-ec2-instance-38fe64b929c   
+* Installing CUDA for Nvidia GPU and cuDNN on windows 10  https://abhishek-maheshwarappa.medium.com/installing-cuda-for-nvidia-gpu-and-cudnn-on-windows-10-f03e6e82f265  
+* Integration between Python/FastAPI and Snowflake https://abhishek-maheshwarappa.medium.com/integration-between-python-fastapi-and-snowflake-954d90c83b7d  
+* A basic introduction into FastAPI https://abhishek-maheshwarappa.medium.com/a-basic-introduction-into-fastapi-3b97157cabfb  
+
 
 Saad Ghojaria
 * KNN and SVM what is it? https://medium.com/@ghojariasaad/knn-and-svm-what-is-it-154fa473a8bb   
