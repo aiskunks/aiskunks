@@ -136,6 +136,13 @@ Deril Raju
 Kunal Mishra
 * Building a Context-based Question Answering System on SQuAD 2.0 https://medium.com/@kunalmishra78/building-a-context-based-question-answering-system-on-squad-2-0-cc33aeb61d13
 
+Tejas Bawankar
+* Stock Data Analysis and Portfolio Management https://medium.com/@tejasbawankar52/stock-data-analysis-and-portfolio-management-450f2b19d473
+
+Sam Koduru
+* P2P Lending Risk Analysis https://medium.com/@samanthkoduru96/p2p-lending-risk-analysis-e44f6e7f353
+
+
 
  ## Projects    
  
