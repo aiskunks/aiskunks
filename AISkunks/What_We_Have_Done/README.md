@@ -29,8 +29,8 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Entrepreneurship](#Entrepreneurship)    
 [Art](#Art)   
 [Skool](#Skool)   
-[Art](#Art)   
-
+[Art](#Art) 
+[Ideas](#Ideas)   
 [Website](#Website)  
 
 ## Papers  
@@ -315,6 +315,92 @@ Skunks Skool is an open source Data Science repository with links and tutorials 
 ## ExperientialAI
 
 Ai Skunkworks collaborates with the Institute for Experiential AI. https://ai.northeastern.edu/ 
+
+
+## Ideas
+
+Ideas are thoughts for project/paper ideas should a Skunk or group of Skunks want to write a paper.Reach out if you would like to do any of these projects.
+
+*RAMAN Effect Project*   
+Nik Bear Brown, Shesh Gupta
+ 
+The RAMAN Effect project is research to develop machine learning and experiments to show the effectiveness of RAMAN SERS for wastewater epidemiology rather than a technology like PCR.
+
+
+RAMAN SERS versus PCR
+ 
+Wastewater collection is at some facility such as a dorm, office building, apartment building, naval ship, prison, or nursing home. PCR is a well-established molecular biology technique that only detects known nucleic acids. PCR is better at detecting presence or absence than being a strictly quantitative technique. The PCR test takes a sample of ribonucleic acid (RNA) and “amplifies” it with the help of lab technologies. Amplifying RNA helps to make even small traces of the COVID-19 virus visible in the test sample. Even if you have a small trace of the .virus in your system, the PCR test will detect it.  PCR technology is not sensitive. As one can see from PCR based wastewater testing company BioBots publications their tiers are fairly broad that covers four orders of magnitude to classify data.
+ 
+The PCR approach has a number of serious issues. The primary issue is that if one is going to test the wastewater at a facility one wants to test for many more things than COVID-19. The set of substances of interest will heavily depend on the demographic. For example, in a dorm or a naval ship testing for recreational drugs and STDs is a more important epidemiological question than testing for COVID. For a nursing home testing for the flu and prescription drugs is important.
+ 
+Another approach would be to use High Performance Liquid Chromatography. High-performance liquid chromatography (HPLC), formerly referred to as high-pressure liquid chromatography, is a technique in analytical chemistry used to separate, identify, and quantify each component in a mixture.  HPLC is the gold standard for accuracy but is expensive and would require mailing samples to a lab. 
+ 
+The most natural technique for wastewater epidemiology is Raman Spectroscopy. Raman Spectroscopy is a non-destructive chemical analysis technique which provides detailed information about chemical structure, phase and polymorphy, crystallinity and molecular interactions. It is based upon the interaction of light with the chemical bonds within a material.
+ 
+In Raman Spectroscopy, a sample is illuminated with a laser beam. Electromagnetic radiation from the illuminated spot is collected with a lens and sent through a monochromator. Elastic scattered radiation at the wavelength corresponding to the laser line (Rayleigh scattering) is filtered out by either a notch filter, edge pass filter, or a band pass filter, while the rest of the collected light is dispersed onto a detector such as a camera.
+ 
+Raman Spectroscopy can be very cheap. It can detect bacteria, small molecules and nucleic acids. Raman Spectrometers have been built using a cell phone and a diode laser.
+ 
+To enhance the detection of molecules, Surface-Enhanced Raman Spectroscopy (SERS) is typically used. Despite extensive efforts to protect public health, disease outbreaks still occur when toxic chemicals and microbial threats evade detection. Peanut butter and produce tainted with Escherichia coli 0157:H7, have polluted drinking water in Milwaukee, WI. In Walkerton, ON (Canada) has been polluted by Cryptosporidium. In many other places surface waters contaminated by cyanotoxins, or mail laced with anthrax spores each represent an outbreak that could have been prevented by a combination of RAMAN with SERS had it been in place. PCR cannot detect E. Coli, Cryptosporidium, cyanotoxins or anthrax. Nor can it detect drugs like opioids. These outbreaks may have been prevented with faster and more readily available pathogen or chemical detection methods such as RAMAN with SERS.  SERS has been used to detect contaminants at femtomolar concentrations over practical time scales. SERS is also capable of simultaneously detecting multiple contaminants of varying polarities and molecular weights, a feat that most existing detection strategies cannot achieve. SERS chips are wafers with nanoparticles with different areas of the chip to detect specific moleclues. Chips are about the size of a sim card can detect around 100 different molecules.
+
+
+*TwitNet -   Twitter Hashtag Lexical Dictionary (Paper and dataset)*    
+ 
+TwitNet a large database of Twitter hashtags. Twitter hashtags are annotated by parts of speech such as nouns, verbs, adjectives and adverbs.  Twitter hashtags are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. The most common hashtag is used as the canonical tag for the synonym group.    
+ 
+Tag  	Synonyms(Synset)   
+#AI  	#ArtificialIntelligence, #MachineIntelligence  
+ 
+Similar to WordNet https://wordnet.princeton.edu/ but for Twitter hashtags.    
+ 
+Will also add statistics like counts, frequency, TF-IDF, Shannon Entropy, etc.   
+
+*EmojiNet -  Emoji Lexical Dictionary. (Paper and dataset)*   
+ 
+EmojiNet a large database of Emojis. Emojis are annotated by parts of speech such as nouns, verbs, adjectives and adverbs.  Emojis are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. The most common hashtag is used as the canonical tag for the synonym group.   
+ 
+Similar to WordNet https://wordnet.princeton.edu/ but for Emojis.  
+ 
+Will also add statistics like counts, frequency, TF-IDF, Shannon Entropy, etc.   
+
+*Gender and Ethnic Neutrality of Baby Names (Paper and datasets)*   
+ 
+Analyze the gender and ethic frequency of baby names so that ML can determine a probability of ethnicity or gender given a name.  This will be a separate paper and database as well as added to TwitterNet.  
+ 
+NYC Most Popular Baby Names Explore Open Data from New York City  Popular Baby Names by Sex and Ethnic Group https://www.kaggle.com/new-york-city/nyc-most-popular-baby-names   
+ 
+Notebook Exploring and Analyzing US Baby Names https://www.kaggle.com/spectacular/exploring-and-analyzing-us-baby-names 
+ 
+US Baby Names - Explore naming trends from babies born in the US  https://www.kaggle.com/kaggle/us-baby-names 
+ 
+ 
+*Predicting Bias on Twitter (Paper and datasets)*   
+ 
+The data from the first projects need to be created before doing this project so the details will be given later after the data is gathered.   
+ 
+*Visualizing Bias on Twitter (Paper and datasets)*   
+ 
+The data from the first projects need to be created before doing this project so the details will be given later after the data is gathered.   
+ 
+*Sarcastic Twitter (Paper and datasets)*  
+
+Tweets will be classified as sarcastic.
+
+The data from the first projects need to be created before doing this project so the details will be given later after the data is gathered.
+Sarcastic Comments - REDDIT Labelled Sarcastic Comments https://www.kaggle.com/sherinclaudia/sarcastic-comments-on-reddit
+Twitter Sentiment (Paper and datasets)  
+
+Tweets will be given sentiment scores from various sentiment scoring algorithms with and without emojis.
+The data from the first projects need to be created before doing this project so the details will be given later after the data is gathered.
+ 
+*Authorship*  
+ 
+Whether you are a co-author will follow standard guidelines on authorship in scholarly or scientific publications.
+https://provost.yale.edu/policies/academic-integrity/guidance-authorship-scholarly-or-scientific-publications
+
+
+ 
+
 
 ## Website       
 
