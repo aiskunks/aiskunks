@@ -248,6 +248,18 @@ Shesh Narayan Gupta
 
  ## Biology  
  
+ Broad Institute of MIT and Harvard Collaboration
+ 
+ Tangram is a Python package, written in PyTorch and based on scanpy, for mapping single-cell (or single-nucleus) gene expression data onto spatial gene expression data. The single-cell dataset and the spatial dataset should be collected from the same anatomical region/tissue type, ideally from a biological replicate, and need to share a set of genes. Tangram aligns the single-cell data in space by fitting gene expression on the shared genes.
+ 
+Nature Paper:
+ Biancalani, T., Scalia, G., Buffoni, L. et al. Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram. Nat Methods 18, 1352–1362 (2021). https://doi.org/10.1038/s41592-021-01264-7
+ 
+ Opensource software:
+ https://github.com/broadinstitute/Tangram
+ 
+ 
+ 
 BCH and Harvard Medical School Projects in machine learning for medical image analysis for the Skunks
 
 *Estimation of diffusion parameters from under-sampled measurements with deep learning*  
