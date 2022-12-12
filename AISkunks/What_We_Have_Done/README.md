@@ -32,6 +32,7 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Art](#Art) 
 [Ideas](#Ideas)   
 [Website](#Website)  
+[Testimonials](#testimonials)  
 
 ## Papers  
 (Note that some papers are co-authored with collaborators outside AI Skunkworks. Only the Skunks are listed here, the full author list can be found through the link to the paper)
@@ -399,11 +400,27 @@ Whether you are a co-author will follow standard guidelines on authorship in sch
 https://provost.yale.edu/policies/academic-integrity/guidance-authorship-scholarly-or-scientific-publications
 
 
- 
-
 
 ## Website       
 
 The official website (still under construction) is at https://alskunks.sites.northeastern.edu/
+
+## Testimonials
+
+
+
+Professor Brown and AI Skunkworks has been an immense backing for the students in the Data track, this support has made me a data scientist. and was a game-changer.
+
+Ai Skunkwokrs uses different projects for students to get experience from real-world problems and he was the true champion of experiential learning. These projects like this provide a good experience for oneself to build the portfolio for showcasing during full-time interviews.
+
+AI skunkworks instills and develops AI thinking among the students. This also gave students like me a platform to express myself and develop my leadership skills and managerial skills apart from giving me the opportunity to improve my data science skills.
+
+*- Abhishek Maheshwarappa*
+
+AI Skunkworks has helped me bridge the gap between starting off as a Novice in the field of AI to implementing real challenges in AI in industry. Prof. Nik's mentoring, constant encouragement and AI skunkworks involvement in networking helped me in working with Squark AI on productionizing best data scrubbing techniques. The efforts of Prof. Nik's mentoring and collaboration with fellow students in the research group has helped my Article titled 'Comparison of Performance of Data Imputation Techniques' get selected for presentation at RISE 2022, Northeastern University.  I say it's time that AI Skunkworks be called an Impact engine because it definitely lives up to that title.
+
+*- Kshitij Zutshi*
+
+
 
   
