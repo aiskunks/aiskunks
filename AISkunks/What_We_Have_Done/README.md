@@ -146,6 +146,9 @@ Sam Koduru
 Ankit Goyal
 * Travel Insurance Prediction: Journey from dataset selection to UI Based Prediction - https://medium.com/@goyalankit28/travel-insurance-prediction-journey-from-dataset-selection-to-ui-based-prediction-44eeb996f778
 
+Venkata Bhargavi S & KrishnaKanth J
+* Monitoring ML systems Using MLOps: an Overview - https://medium.com/@bhargavi.sikhakolli31/monitoring-ml-systems-using-mlops-an-overview-e1d6eea64ae2
+
 
 
  ## Projects    
