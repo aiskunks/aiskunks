@@ -143,6 +143,9 @@ Tejas Bawankar
 Sam Koduru
 * P2P Lending Risk Analysis https://medium.com/@samanthkoduru96/p2p-lending-risk-analysis-e44f6e7f353
 
+Ankit Goyal
+* Travel Insurance Prediction: Journey from dataset selection to UI Based Prediction - https://medium.com/@goyalankit28/travel-insurance-prediction-journey-from-dataset-selection-to-ui-based-prediction-44eeb996f778
+
 
 
  ## Projects    
