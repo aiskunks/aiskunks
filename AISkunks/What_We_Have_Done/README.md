@@ -134,6 +134,8 @@ Deril Raju
 
 * Implementing KNN Classifier From Scratch in Python https://medium.com/@derilraju/implementing-knn-classifier-from-scratch-in-python-6adfa444c243
 
+* Structuring R. Shiny app using modules https://medium.com/@derilraju/structuring-your-r-shiny-app-using-modules-5a1b5545246c
+
 Kunal Mishra
 * Building a Context-based Question Answering System on SQuAD 2.0 https://medium.com/@kunalmishra78/building-a-context-based-question-answering-system-on-squad-2-0-cc33aeb61d13
 
