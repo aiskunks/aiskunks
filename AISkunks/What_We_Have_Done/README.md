@@ -154,6 +154,12 @@ Venkata Bhargavi S & KrishnaKanth J
 Naga Venkatesh Gavini
 * Diabetes Predictor: A Machine Learning Approach - https://medium.com/@nagavenkatesh/nagavenkateshgavini-final-project-55d603e2651b
 
+Bhawana Agarwal
+* Multi-class Image classification model using CNN - https://medium.com/@agarwal.bh/multi-class-image-classification-model-using-cnn-dcf7eaa3391b
+
+Prasanth Dwadasi
+* Introduction to GANs - https://medium.com/@prasanthsai448/introduction-to-generative-adversarial-network-74d1c901c10d
+
 
 
  ## Projects    
