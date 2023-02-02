@@ -151,6 +151,9 @@ Ankit Goyal
 Venkata Bhargavi S & KrishnaKanth J
 * Monitoring ML systems Using MLOps: an Overview - https://medium.com/@bhargavi.sikhakolli31/monitoring-ml-systems-using-mlops-an-overview-e1d6eea64ae2
 
+Naga Venkatesh Gavini
+* Diabetes Predictor: A Machine Learning Approach - https://medium.com/@nagavenkatesh/nagavenkateshgavini-final-project-55d603e2651b
+
 
 
  ## Projects    
