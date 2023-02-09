@@ -91,7 +91,8 @@ Ayush Singh
 
 Shesh Narayan Gupta
 * Deep Convolutional Neural Networks (DCNNs) explained in layman's terms https://medium.com/aiguys/deep-convolutional-neural-networks-dcnns-explained-in-layman-terms-b990b2818061
-* BERT Explainability https://medium.com/aiguys/bert-explainability-5b54cff01407  
+* BERT Explainability https://medium.com/aiguys/bert-explainability-5b54cff01407
+* How to Use Dall-e to Create Artwork for Medium Articles and/or Educational Content - https://medium.com/@shesh.cool/how-to-use-dall-e-to-create-artwork-for-medium-articles-and-or-educational-content-50e2af9662ed  
 
 
 Abhishek Dabas  
