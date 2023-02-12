@@ -30,7 +30,8 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Art](#Art)   
 [Skool](#Skool)   
 [Art](#Art) 
-[Ideas](#Ideas)   
+[Regenerative AI](#Regenerative AI)
+[Ideas](#Ideas)
 [Website](#Website)  
 [Testimonials](#testimonials)  
 
@@ -338,6 +339,10 @@ Skunks Skool is an open source Data Science repository with links and tutorials 
 
 Ai Skunkworks collaborates with the Institute for Experiential AI. https://ai.northeastern.edu/ 
 
+## RegenerativeAI
+Regenerative Ai is AI that helps people grow and make life changes. We started an open-source project for students to build tools and make people make positive life changes which we call **Regenerative AI**.
+
+The initial focus of **Regenerative AI** is focused on making career changes. We are looking for people to write papers, and build open-source tools focused on careers. These might be tools that help students from preparing their CV or to getting matched with the perfect job.
 
 ## Ideas
 
