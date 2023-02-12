@@ -29,9 +29,9 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Entrepreneurship](#Entrepreneurship)    
 [Art](#Art)   
 [Skool](#Skool)   
-[Art](#Art) 
+[Art](#Art)   </br>
 [RegenerativeAI](#RegenerativeAI)  </br>
-[Ideas](#Ideas)
+[Ideas](#Ideas) </br>
 [Website](#Website)  
 [Testimonials](#testimonials)  
 
