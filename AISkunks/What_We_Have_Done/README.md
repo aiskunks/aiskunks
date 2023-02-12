@@ -30,7 +30,7 @@ AI Skunks Twitter https://twitter.com/aiskunks
 [Art](#Art)   
 [Skool](#Skool)   
 [Art](#Art) 
-[RegenerativeAI](#RegenerativeAI) 
+[RegenerativeAI](#RegenerativeAI)  </br>
 [Ideas](#Ideas)
 [Website](#Website)  
 [Testimonials](#testimonials)  
