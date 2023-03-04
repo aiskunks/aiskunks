@@ -165,7 +165,9 @@ Prasanth Dwadasi
 * Introduction to GANs - https://medium.com/@prasanthsai448/introduction-to-generative-adversarial-network-74d1c901c10d
 
 Pratik P Sannakki
-Recreating the Dream Team using the Genetic Algorithm - https://medium.com/@pratikpsannakki1/recreating-the-dream-team-using-the-genetic-algorithm-ab10fa7ea5a4
+* Recreating the Dream Team using the Genetic Algorithm - https://medium.com/@pratikpsannakki1/recreating-the-dream-team-using-the-genetic-algorithm-ab10fa7ea5a4
+
+* Unleashing Your Creativity: A Game Creator Workshop using ChatGPT- https://medium.com/@pratikpsannakki1/unleashing-your-creativity-a-game-creator-workshop-using-chatgpt-996cd8713d94
 
 
 
