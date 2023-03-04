@@ -170,6 +170,10 @@ Pratik P Sannakki
 * Unleashing Your Creativity: A Game Creator Workshop using ChatGPT- https://medium.com/@pratikpsannakki1/unleashing-your-creativity-a-game-creator-workshop-using-chatgpt-996cd8713d94
 
 
+Dushyant Mahajan
+* A Crash Course in DATA: Control your charts like an expert with Altair - https://medium.com/aiskunks/a-crash-course-in-data-control-your-charts-like-an-expert-with-altair-76de7837a87b
+
+
 
  ## Projects    
  
