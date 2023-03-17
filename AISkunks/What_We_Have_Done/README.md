@@ -166,6 +166,7 @@ Prasanth Dwadasi
 
 Pratik P Sannakki
 * Recreating the Dream Team using the Genetic Algorithm - https://medium.com/@pratikpsannakki1/recreating-the-dream-team-using-the-genetic-algorithm-ab10fa7ea5a4
+* Pixel Perfect: ESRGAN-powered High-Resolution Image Upscaling Platform - https://medium.com/@pratikpsannakki1/pixel-perfect-esrgan-powered-high-resolution-image-upscaling-platform-2c3ae0934d53
 
 * Unleashing Your Creativity: A Game Creator Workshop using ChatGPT- https://medium.com/@pratikpsannakki1/unleashing-your-creativity-a-game-creator-workshop-using-chatgpt-996cd8713d94
 
