@@ -46,7 +46,7 @@ Raghav Avasthi, Ziqing Lu, Nik Bear Brown  Deep learning and alignment of spatia
 
 Nimish Magre, Nicholas Brown (2021) Typography-MNIST (TMNIST): an MNIST-Style Image Dataset to Categorize Glyphs and Font-Styles arXiv:2202.08112  https://doi.org/10.48550/arXiv.2202.08112  
 
-Shesh Narayan Gupta, Nik Bear Brown (2022) Adjusting for Bias with Procedural Data
+Shesh Narayan Gupta, Nik Bear Brown (2022) Adjusting for Bias with Procedural Data : https://arxiv.org/abs/2204.01108
 53rd annual international conference of the International Simulation and Gaming Association (ISAGA).  
  
 Tanvi Valkunde Linear Algebra in the Browser powered by WebAssembly
