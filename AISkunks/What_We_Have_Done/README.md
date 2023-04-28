@@ -174,6 +174,9 @@ Pratik P Sannakki
 Dushyant Mahajan
 * A Crash Course in DATA: Control your charts like an expert with Altair - https://medium.com/aiskunks/a-crash-course-in-data-control-your-charts-like-an-expert-with-altair-76de7837a87b
 
+Shweta Chandraprakash Bulchandani
+* Combine Data Cleaning, Feature Selection, Modeling and Interpretability - https://medium.com/@shwetabulchandani30/combine-data-cleaning-feature-selection-modeling-and-interpretability-ba0f37062fc6
+
 
 
  ## Projects    
