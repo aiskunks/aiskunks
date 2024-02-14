@@ -272,6 +272,7 @@ Games built by AI Skunkworks at Northeastern https://youtu.be/6nTry1HihEI
  
 Kshitij Zutshi	
 * Data Imputation Best Practices  https://github.com/aiskunks/AI_Research/tree/main/data-imputation-best-practices
+* Marketing Oureach and Analytics - Refer Mate (The Nirvana Labs) under Guidance of Meet Gandhi and Dev Shah - On Contact renewal basis [February 12, 2024 - March 30, 2024]
 
 Rohit Gandikota	
 * Best Practises to Train and Control DCGAN  https://github.com/aiskunks/AI_Research/blob/main/dc-gan-best-practices/     
